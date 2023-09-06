@@ -1,0 +1,27 @@
+
+.card_men_inner{
+border: 1px black solid;
+}
+
+.card-title{
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.card-text{
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.buy{
+    background-color:#f8ca13 ;
+    color: black;
+    border: none;
+}
+.addToCart{
+    background-color:black ;
+}
+@media (min-width:768px) {
+    
+ 
+}
